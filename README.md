@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umphir&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Estou aprendendo
+## Estou aprendendo:
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40" /> 
         
