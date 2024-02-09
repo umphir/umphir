@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <div> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40" />  
  </div>
-![Snake animation](https://github.com/umphir/umphir/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/umphir/umphir/blob/output/github-contribution-grid-snake.svg)
 
