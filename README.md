@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="40" height="40" />
           
            
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+          
  </div>
 
  ![Snake animation](https://github.com/umphir/umphir/blob/output/github-contribution-grid-snake.svg)
